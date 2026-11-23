@@ -4,4 +4,4 @@ def test_evenodd():
     assert even_odd(24)=="Even Number"
 
     def test_evenodd():
-        assert even_odd(5)=="Odd number"
+        assert even_odd(5)=="Odd Number"
