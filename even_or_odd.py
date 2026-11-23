@@ -13,7 +13,8 @@ def even_odd(num):
     
 
      num = int(sys.argv[1])
-    print(num , "is",even_odd(num),"Number")
+     print(f"{num} is {even_odd(num)}")
+
 
 
 
